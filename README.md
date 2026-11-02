@@ -74,6 +74,18 @@ Hey there, I'm Hugo!
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCarnavalleDev&layout=compact&langs_count=7&theme=dracula" alt="Top languages">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoCarnavalleDev&show_icons=true&theme=dracula" alt="GitHub stats">
+    <img
+        loading="lazy"
+        height="180em"
+        width="49%"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=HugoCarnavalleDev&layout=compact&langs_count=7&theme=dracula&hide_border=true"
+        alt="Most Used Languages"
+    />
+    <img
+        loading="lazy"
+        height="180em"
+        width="49%"
+        src="https://github-stats-extended.vercel.app/api?username=HugoCarnavalleDev&show_icons=true&theme=dracula&hide_border=true"
+        alt="GitHub Statistics"
+    />
 </p>
